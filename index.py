@@ -1,13 +1,7 @@
-# a = 1
-# b = "Abdul Rafay"
-# c = True
-# d = 1.20
-# e = 1 + 2j
-# f = None
+# Shape # 1
+print("Square Shape", "\n")
+print("", "*" * 10, "\n", "*" * 10, "\n", "*" * 10, "\n", "*" * 10, "\n")
 
-# print("Basic Data Type")
-# print(
-#     f"int: {a}, string: {b} ,Boolean: {c} , Float: {d} , complex: {e} ,Nonetype: {f} "
-# )
-
-print("", "*" * 10, "\n", "*" * 10, "\n", "*" * 10, "\n", "*" * 10)
+# Shape # 2
+print("Rectangle Shape", "\n")
+print("", "*" * 17, "\n", "*" * 17, "\n", "*" * 17, "\n", "*" * 17, "\n")
