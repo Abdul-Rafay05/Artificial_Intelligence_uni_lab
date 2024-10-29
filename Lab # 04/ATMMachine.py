@@ -21,7 +21,7 @@ if user_pin == 1234:
             print("Your Transaction has Been Successfully Complete.....")
             print("This is Your Remaining Amount: ", balance)
         else:
-            print("Please Incorrect user input ")
+            print("you entered a wrong input. Please Try Again ")
     else:
         print("Thanks")
 else:
