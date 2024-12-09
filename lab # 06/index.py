@@ -8,7 +8,7 @@ def checksum(a):
     sum = 0
     for i in range(1, a + 1):
         sum += i
-    return sum
+    return f"the sum of its digits {sum}"
 
 
 # checksum(num)
@@ -29,7 +29,7 @@ def CalSentenceLength(x):
 
 
 result2 = CalSentenceLength(userInput)
-print(result2)
+print(f"the length of the sentence is {result2}")
 
 # task # 3
 # Write a Python function that takes an integer and returns whether the number is even or odd.
